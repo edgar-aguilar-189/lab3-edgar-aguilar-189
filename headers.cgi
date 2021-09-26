@@ -2,8 +2,10 @@
 
 # Emit the HTTP response header
 echo "X-function: Emitting a hereis document"
-echo "Content-type: text/json"
-
+echo "Content-type: text/html"
+echo "X-cit-384-student: $USER"
+echo "Date: $(date)"
+echo "Host: $(hostname)"
 
 # Emit a blank line to separate the HTTP response header from the HTTP response body 
 echo ""
