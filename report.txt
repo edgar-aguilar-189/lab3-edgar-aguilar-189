@@ -1,0 +1,9 @@
+Name: Edgar Aguilar
+Lab Name: Lab 3
+Date Assigned: Sept 21, 2021
+Date Completed: Sept 25, 2021
+Status: Completed.
+
+Outstanding Issues: None.
+Major Impediments: None.
+Feedback Comments: None.
